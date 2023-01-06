@@ -50,3 +50,8 @@ main {
     font-family: monospace;
     font-size: 0.75em;
 }
+
+#image {
+    width: 150px;
+    height: 150px;
+}
