@@ -39,19 +39,45 @@ main {
 
 .left {
     display: grid;
+    font-family: monospace;
 }
 
 .right {
     display: grid;
     grid-template-rows: 10% 10% 80%;
-}
-
-.gift-cards {
     font-family: monospace;
-    font-size: 0.75em;
 }
 
 #image {
     width: 150px;
     height: 150px;
+}
+
+.p {
+    font-family: monospace;
+}
+
+.gift-cards {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.recommended {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.discovery {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.categories {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.genre {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }
