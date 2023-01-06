@@ -33,11 +33,20 @@ header .logo {
 main {
     width: 1224px;
     margin: 0 auto;
-    height: 900px;
     display: grid;
     grid-template-columns: 20% 80%;
 }
 
-* {
-    border: solid 1px black;
+.left {
+    display: grid;
+}
+
+.right {
+    display: grid;
+    grid-template-rows: 10% 10% 80%;
+}
+
+.gift-cards {
+    font-family: monospace;
+    font-size: 0.75em;
 }
