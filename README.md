@@ -9,5 +9,4 @@ Website display
 # HTML
 
 <section> left
-<section> top
-<section> bottom
+<section> right
